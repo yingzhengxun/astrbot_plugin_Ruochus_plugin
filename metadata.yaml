@@ -1,0 +1,7 @@
+﻿name: Ruochu_plugin
+display_name: 若初的神秘插件
+desc: 多功能查询插件，集成 RailGo 铁路信息查询（车次/区间/站到站/车站/正晚点/随机车次，输出精美图片）与 UAPI 全能接口（天气/农历/节假日/翻译/词典/IP/QQ/GitHub/热榜/今日人品/Minecraft 等 44+ 功能）。
+version: 1.0.0
+author: yingruochu
+repo: https://github.com/yingzhengxun/astrbot_plugin_Railway_Information_Inquiry
+
